@@ -283,3 +283,4 @@ Releases
  * [Qubes R3.2 release notes](/doc/releases/3.2/release-notes/)
  * [Qubes R3.2 release schedule](/doc/releases/3.2/schedule/)
 
+foo
