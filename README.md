@@ -1,6 +1,10 @@
 Qubes OS Documentation
 ======================
 
+FOO FOO FOO FOO
+
+BAR!
+
 Canonical URL: https://www.qubes-os.org/doc/
 
 All [Qubes OS Project] documentation pages are stored as plain text
