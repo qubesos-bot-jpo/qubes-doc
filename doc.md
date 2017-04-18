@@ -17,6 +17,10 @@ redirect_from:
 User Documentation
 ==================
 
+Broken Links
+------------
+ * [Going Nowhere](/example-broken-link/)
+
 The Basics
 ----------
  * [What is Qubes OS?](/intro/)
