@@ -14,6 +14,8 @@ redirect_from:
 - /community/
 ---
 
+An extra sentence for testing, without words spelled wrong.
+
 User Documentation
 ==================
 
